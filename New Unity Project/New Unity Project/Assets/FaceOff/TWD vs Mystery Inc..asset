@@ -11,4 +11,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1611632ef66949046ba5eb4fa57c1539, type: 3}
   m_Name: TWD vs Mystery Inc.
   m_EditorClassIdentifier: 
-  ObjectList: []
+  ObjectList:
+  - {fileID: 11400000, guid: fff80c543467a1c498bc4d44313cc8c3, type: 2}
+  - {fileID: 11400000, guid: e3acdbe08b02d1e4899af6ec4e1185f9, type: 2}

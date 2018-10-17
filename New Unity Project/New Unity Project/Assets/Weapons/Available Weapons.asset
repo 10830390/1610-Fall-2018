@@ -11,4 +11,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1611632ef66949046ba5eb4fa57c1539, type: 3}
   m_Name: Available Weapons
   m_EditorClassIdentifier: 
-  ObjectList: []
+  ObjectList:
+  - {fileID: 11400000, guid: 1e79d02a7e8daa649a5c34b9417600d5, type: 2}
+  - {fileID: 11400000, guid: 0f828596e50ad4f449de02f2b7a1bd4b, type: 2}
+  - {fileID: 11400000, guid: 9ed29d47f3273a54ca532d2bec1c4af6, type: 2}
