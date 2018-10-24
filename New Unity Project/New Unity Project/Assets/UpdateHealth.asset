@@ -11,4 +11,4 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2a4aef062cb862d4cad7533f0a5c435b, type: 3}
   m_Name: UpdateHealth
   m_EditorClassIdentifier: 
-  Data: {fileID: 0}
+  Data: {fileID: 11400000, guid: fbf2d27c13d6a1a498618a8a356a9931, type: 2}
