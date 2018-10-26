@@ -54,10 +54,10 @@
       <file leaf-file-name="ChangeValue.cs" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assets/Scripts/ChangeValue.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
+            <state relative-caret-position="210">
               <caret line="17" column="29" selection-start-line="17" selection-start-column="29" selection-end-line="17" selection-end-column="29" />
               <folding>
-                <marker date="1539812648668" expanded="true" signature="6:104" ph="..." />
+                <marker date="1539812648668" expanded="false" signature="6:104" ph="..." />
                 <marker date="1539812648668" expanded="true" signature="168:344" ph="{...}" />
                 <marker date="1539812648668" expanded="true" signature="233:266" ph="{...}" />
                 <marker date="1539812648668" expanded="true" signature="309:342" ph="{...}" />
@@ -71,7 +71,7 @@
           <provider selected="true" editor-type-id="text-editor">
             <state>
               <folding>
-                <marker date="1539813310313" expanded="true" signature="6:40" ph="..." />
+                <marker date="1539813310313" expanded="false" signature="6:40" ph="..." />
                 <marker date="1539813310313" expanded="true" signature="87:318" ph="{...}" />
                 <marker date="1539813310313" expanded="true" signature="184:223" ph="{...}" />
                 <marker date="1539813310313" expanded="true" signature="277:316" ph="{...}" />
@@ -84,14 +84,15 @@
         <entry file="file://$PROJECT_DIR$/Assets/Scripts/Loops.cs">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="285">
-              <caret line="22" column="12" selection-start-line="22" selection-start-column="12" selection-end-line="22" selection-end-column="12" />
+              <caret line="22" column="28" lean-forward="true" selection-start-line="22" selection-start-column="28" selection-end-line="22" selection-end-column="28" />
               <folding>
-                <marker date="1540414750355" expanded="false" signature="6:116" ph="..." />
-                <marker date="1540414750355" expanded="true" signature="152:461" ph="{...}" />
-                <marker date="1540414750355" expanded="true" signature="257:397" ph="{...}" />
-                <marker date="1540414750355" expanded="true" signature="301:329" ph="{...}" />
-                <marker date="1540414750355" expanded="true" signature="362:391" ph="{...}" />
-                <marker date="1540414750355" expanded="true" signature="452:459" ph="{...}" />
+                <marker date="1540573705977" expanded="false" signature="6:116" ph="..." />
+                <marker date="1540573705977" expanded="true" signature="152:555" ph="{...}" />
+                <marker date="1540573705977" expanded="true" signature="281:491" ph="{...}" />
+                <marker date="1540573705977" expanded="true" signature="325:353" ph="{...}" />
+                <marker date="1540573705977" expanded="true" signature="395:423" ph="{...}" />
+                <marker date="1540573705977" expanded="true" signature="456:485" ph="{...}" />
+                <marker date="1540573705977" expanded="true" signature="546:553" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -173,7 +174,7 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
+  <component name="ProjectFrameBounds">
     <option name="x" value="240" />
     <option name="y" value="130" />
     <option name="width" value="1440" />
@@ -247,12 +248,13 @@
       <workItem from="1539808259659" duration="679000" />
       <workItem from="1539808997755" duration="27000" />
       <workItem from="1539809037964" duration="4202000" />
-      <workItem from="1540413464412" duration="1615000" />
+      <workItem from="1540413464412" duration="1789000" />
+      <workItem from="1540573603790" duration="352000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="23408000" />
+    <option name="totallyTimeSpent" value="23934000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -264,23 +266,22 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="240" y="130" width="1440" height="780" extended-state="1" />
-    <editor active="true" />
+    <frame x="240" y="130" width="1440" height="780" extended-state="0" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="right" id="Errors In Solution" order="3" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" weight="0.32866043" />
       <window_info anchor="bottom" id="Unit Tests" order="7" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Terminal" order="7" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.29275364" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.29710144" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Unity" order="7" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="NuGet" order="7" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -300,6 +301,22 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Loops.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="22" column="12" selection-start-line="22" selection-start-column="12" selection-end-line="22" selection-end-column="12" />
+          <folding>
+            <marker date="1540573705977" expanded="false" signature="6:116" ph="..." />
+            <marker date="1540573705977" expanded="true" signature="152:555" ph="{...}" />
+            <marker date="1540573705977" expanded="true" signature="281:491" ph="{...}" />
+            <marker date="1540573705977" expanded="true" signature="325:353" ph="{...}" />
+            <marker date="1540573705977" expanded="true" signature="395:423" ph="{...}" />
+            <marker date="1540573705977" expanded="true" signature="456:485" ph="{...}" />
+            <marker date="1540573705977" expanded="true" signature="546:553" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Assets/Scripts/LocalVars.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
@@ -683,15 +700,12 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Scripts/AddValue.cs">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/Assets/Scripts/ChangeValue.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
+        <state relative-caret-position="210">
           <caret line="17" column="29" selection-start-line="17" selection-start-column="29" selection-end-line="17" selection-end-column="29" />
           <folding>
-            <marker date="1539812648668" expanded="true" signature="6:104" ph="..." />
+            <marker date="1539812648668" expanded="false" signature="6:104" ph="..." />
             <marker date="1539812648668" expanded="true" signature="168:344" ph="{...}" />
             <marker date="1539812648668" expanded="true" signature="233:266" ph="{...}" />
             <marker date="1539812648668" expanded="true" signature="309:342" ph="{...}" />
@@ -703,7 +717,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <folding>
-            <marker date="1539813310313" expanded="true" signature="6:40" ph="..." />
+            <marker date="1539813310313" expanded="false" signature="6:40" ph="..." />
             <marker date="1539813310313" expanded="true" signature="87:318" ph="{...}" />
             <marker date="1539813310313" expanded="true" signature="184:223" ph="{...}" />
             <marker date="1539813310313" expanded="true" signature="277:316" ph="{...}" />
@@ -714,14 +728,15 @@
     <entry file="file://$PROJECT_DIR$/Assets/Scripts/Loops.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="285">
-          <caret line="22" column="12" selection-start-line="22" selection-start-column="12" selection-end-line="22" selection-end-column="12" />
+          <caret line="22" column="28" lean-forward="true" selection-start-line="22" selection-start-column="28" selection-end-line="22" selection-end-column="28" />
           <folding>
-            <marker date="1540414750355" expanded="false" signature="6:116" ph="..." />
-            <marker date="1540414750355" expanded="true" signature="152:461" ph="{...}" />
-            <marker date="1540414750355" expanded="true" signature="257:397" ph="{...}" />
-            <marker date="1540414750355" expanded="true" signature="301:329" ph="{...}" />
-            <marker date="1540414750355" expanded="true" signature="362:391" ph="{...}" />
-            <marker date="1540414750355" expanded="true" signature="452:459" ph="{...}" />
+            <marker date="1540573705977" expanded="false" signature="6:116" ph="..." />
+            <marker date="1540573705977" expanded="true" signature="152:555" ph="{...}" />
+            <marker date="1540573705977" expanded="true" signature="281:491" ph="{...}" />
+            <marker date="1540573705977" expanded="true" signature="325:353" ph="{...}" />
+            <marker date="1540573705977" expanded="true" signature="395:423" ph="{...}" />
+            <marker date="1540573705977" expanded="true" signature="456:485" ph="{...}" />
+            <marker date="1540573705977" expanded="true" signature="546:553" ph="{...}" />
           </folding>
         </state>
       </provider>

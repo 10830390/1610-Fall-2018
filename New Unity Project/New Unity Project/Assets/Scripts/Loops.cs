@@ -7,6 +7,7 @@ public class Loops : MonoBehaviour
 {
 
 	public string[] Names;
+	public string[] Teams;
 	public GameObject[] Things;
 	
 	// Use this for initialization
@@ -15,6 +16,11 @@ public class Loops : MonoBehaviour
 		for (int i = 0; i < Names.Length; i++)
 		{
 			print(Names[i]);
+		}
+
+		for (int i = 0; i < Teams.Length; i++)
+		{
+			print(Teams[i]);
 		}
 
 		foreach (var thing in Things)
