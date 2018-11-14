@@ -32,6 +32,7 @@
           <e p="PowerUp.cs" t="Include" />
           <e p="SwitchStatements.cs" t="Include" />
           <e p="TriggerEventBehavior.cs" t="Include" />
+          <e p="UpdateAnims.cs" t="Include" />
           <e p="UpDateImageValue.cs" t="Include" />
           <e p="Variables.cs" t="Include" />
           <e p="WhatCanSeeIt.cs" t="Include" />
